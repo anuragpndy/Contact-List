@@ -1,5 +1,6 @@
 # Express-Contact-Bucket
-[![HitCount](https://github.com/anuragpndy/Contact-List.git)
+[![HitCount](https://github.com/anuragpndy/Contact-List)]
+
 # How to Run
 1. Install NodeJs (nodejs.org).
 2. Fork, Clone and open this repository in a terminal/command prompt.
