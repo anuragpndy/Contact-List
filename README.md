@@ -1,5 +1,5 @@
 # Express-Contact-Bucket
-[![HitCount](https://github.com/anuragpndy/Contact-List)]
+(https://github.com/anuragpndy/Contact-List)
 
 # How to Run
 1. Install NodeJs (nodejs.org).
